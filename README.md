@@ -12,7 +12,8 @@ This project provides a lightweight and easy-to-play version of the snake game. 
 
 **Demo** 🎮
 
-Game Demo GIF
+![Snake_game gif](https://github.com/junaidhas/Snake_game/assets/97498014/e02ac74c-033f-47f6-bb1e-ea2c5f896890)
+
 
 
 **Technologies Used** 💻
